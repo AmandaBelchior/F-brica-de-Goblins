@@ -1,8 +1,8 @@
 # 🧙‍♂️ Sistema de Registro de Mini Goblins
 
-Sistema interativo para cadastro, avaliação e gerenciamento de Mini Goblins em uma fábrica fantástica!
+Sistema interativo para cadastro, avaliação e gerenciamento de Mini Goblins em Mordor!
 
-## 🚀 Como Executar o Programa
+## 🧌 Como Executar o Programa
 
 ### Pré-requisitos
 - Python 3.6 ou superior instalado
@@ -13,4 +13,5 @@ Sistema interativo para cadastro, avaliação e gerenciamento de Mini Goblins em
 3. **Navegue até a pasta** onde salvou o arquivo
 4. **Execute o comando:**
    ```bash
+
    python sistema_goblins.py
